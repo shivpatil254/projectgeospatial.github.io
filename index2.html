@@ -1,0 +1,231 @@
+<html lang="en">
+<head>
+    <title>Geo Visualization</title>
+
+    <style>
+      /*  ul {
+            list-style-type: none;
+            margin: 0;
+            padding: 0;
+            overflow: hidden;
+            background-color: #333;
+        } */
+
+        li {
+            float: left;
+        }
+
+        li a {
+            display: block;
+            color: white;
+            text-align: center;
+            padding: 14px 16px;
+            text-decoration: none;
+        }
+
+        li a:hover:not(.active) {
+            background-color: #111;
+        }
+
+        .active {
+            background-color: #4CAF50;
+        }
+        .header {
+            text-align: left;
+            color: black;
+        }
+
+        .header h1 {
+            padding-top: 1px;
+        }
+
+        input{
+            width: 70%;
+
+        }
+        select {
+            margin: 10px 0;
+        }
+
+        .container {
+            margin: 20px;
+            display: flex;
+            flex-direction: row;
+            justify-content: space-around;;
+            alignment: center;
+        }
+
+        .small {
+            display: flex;
+            flex-direction: column;
+
+        }
+
+
+
+        .tooltip {
+            height: 30px;
+            width: 100px;
+            position: absolute;
+            opacity: 1%;
+            background: #f7f2aa;
+        }
+
+        .tooltip p{
+            margin: 0 2px;
+        }
+
+        #map svg {
+            background-color: white;
+            padding: 20px;
+            border: 2px solid #000000;
+            border-radius: 10px;
+
+        }
+        .tooltipData{
+            font-size: medium;
+        }
+
+    </style>
+    <title></title>
+</head>
+
+<body style="background-color: powderblue">
+
+<ul>
+    <a href="index1.html">Geospatial Visualization - 1</a>
+    <a href="index2.html">Geospatial Visualization - 2</a>
+
+</ul>
+<section class="header">
+    <div>
+      
+        <p>Total Data Per Year: <span id="year"></span></p>
+        <label> Slide over years
+            <input type="range" name="slider" step="1" />
+        </label>
+    </div>
+</section>
+<section class="container">
+    <div id="map">
+
+        <svg><title>Map of Visualization</title></svg>
+    </div>
+
+    <div class="tooltip"></div>
+</section>
+<script src="https://d3js.org/d3.v4.js" type="text/javascript"></script>
+<script type="text/javascript" src="https://unpkg.com/topojson@3"></script>
+<script>
+    //main JS file
+    var width = 1000;
+    var height = 550;
+    // initially height  = 500 
+    var minValue, maxValue, geoData, totalData;
+
+    d3.queue()
+        .defer(d3.csv, "https://raw.githubusercontent.com/shivpatil254/masterprojectgeospatialpart12/main/testsliderallgeodata.csv",(row, i, header) => {
+            return {
+                Country_name: row.Country,
+                country_code: row['Country Code'],
+                year: +row.Year,
+                covid_confirmed_cases: +row['Covid_Confirmed_Cases'],
+                covid_death_cases: +row['Covid_Death_Cases'],
+                vaccinations: +row['Vaccinations']
+            }
+        })
+        .defer(d3.json, "https://unpkg.com/world-atlas@1/world/110m.json")
+        .await((error, countryData, topoData) => {
+            if(error) console.log(error);
+            else {
+                totalData = countryData;
+                minValue = d3.min(countryData, d => d.year);
+                maxValue = d3.max(countryData, d => d.year);
+                d3.select("#year").text(minValue);
+                geoData = topojson.feature(topoData, topoData.objects.countries).features;
+                var yearData = countryData.filter(d => d.year === minValue);
+                var select = d3.select(".header")
+                    .append('select')
+                    .property("name", "covid multiple visulization");
+                select.append('option')
+                    .property('value', 'covid_confirmed_cases')
+                    .text('Total Confirmed Cases');
+                select.append('option')
+                    .text('Total Confirmed Death Cases')
+                    .property('value', 'covid_death_cases');
+                select.append('option')
+                    .text('Vaccinations')
+                    .property('value', 'vaccinations');
+                var map = d3.select("#map")
+                    .selectAll('svg')
+                    .attr("width", width)
+                    .attr("height", height); 
+                d3.select(".header")
+                    .select("input")
+                    .property('min', minValue)
+                    .property('max', maxValue)
+                    .property('value', minValue)
+                    .on('input', function(){
+                        var val = +d3.event.target.value;
+                        d3.select("#year").text(val)
+                        yearData = countryData.filter(d => d.year === val);
+                        Visualize_map(yearData);
+                    });
+                d3.select("select")
+                    .on('change', function(){
+                        Visualize_map(yearData);
+                    })
+                Visualize_map(yearData);
+            }
+        });
+    var Visualize_map = function(yearData) {
+
+     //   var projection = d3.geoMercator()
+          var projection = d3.geoEquirectangular()
+            .scale(160)
+           // .translate([width/2, height/2]);
+       var path = d3.geoPath()
+            .projection(projection);
+        var colorValues = {
+            covid_confirmed_cases: ["#ffcccb", "#8b0000"],
+            covid_death_cases: ["#ffcccb", "#8b0000"],
+            vaccinations: ["#feffe8", "#21442c"]
+        }; 
+        var val = d3.select('select').property('value');
+        console.log(val);
+        var colorScale = d3.scaleLinear()
+            .domain(d3.extent(yearData, d => d[val]))
+            .range(colorValues[val]);
+        var vis = d3.select("#map")
+            .select('svg')
+            .selectAll('.map')
+            .data(geoData);
+        vis.style("stroke", "none")
+            .attr("fill", d => {
+                var Country_name = yearData.filter(c => c.country_code === d.id);
+                if(Country_name.length === 0) return '#ccc';
+                else return colorScale(Country_name[0][val]);
+            });
+        var used;
+        vis.enter()
+            .append("path")
+            .classed("map", true)
+            .attr('d', path)
+            .on('mousemove touchstart', function(d){
+                //var tooltip = d3.select('.tooltip')
+
+                tooltip.style('opacity', 1)
+                    .style('left', (d3.event.pageX - tooltip.node().offsetWidth/2) + 'px')
+                    .style('top', (d3.event.pageY + 20) + 'px')
+                    .html("<div class='tooltipData'>Name:</div>");
+            })
+            .attr("d", path)
+            .attr("fill", d => {
+                var Country_name = yearData.filter(c => c.country_code === d.id);
+                if(Country_name.length === 0) return '#ccc';
+                else return colorScale(Country_name[0][val]);
+            });
+    }
+</script>
+</body>
+</html>

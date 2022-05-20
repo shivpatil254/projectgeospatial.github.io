@@ -1,0 +1,1434 @@
+[
+   
+    {
+        "ccases": 0,
+        "country": "Egypt",
+        "dcases": 0,
+        "vaccinationinfo": 30.43,
+        "bronzemedal": 4,
+        "total": 6
+    },
+    {
+        "ccases": 58.67,
+        "country": "Argentina",
+        "dcases": 1.32,
+        "vaccinationinfo": 80.86,
+        "bronzemedal": 2,
+        "total": 3
+    },
+
+    {
+        "ccases": 456.08,
+        "country": "Chile",
+        "dcases": 0,
+        "vaccinationinfo": 90.29,
+        "bronzemedal": 2,
+        "total": 3
+
+    },
+
+    {
+        "ccases": 0.16,
+        "country": "Chad",
+        "dcases": 0,
+        "vaccinationinfo": 0.91,
+        "bronzemedal": 2,
+        "total": 7
+    },
+    
+    {
+        "ccases": 366.86,
+        "country": "Uruguay",
+        "dcases": 0.66,
+        "vaccinationinfo": 81.51,
+        "bronzemedal": 2,
+        "total": 3
+
+    },
+
+    {
+        "ccases": 17.18,
+        "country": "Paraguay",
+        "dcases": 1.7,
+        "vaccinationinfo": 45.94,
+        "bronzemedal": 2,
+        "total": 3
+    },
+
+    {
+        "ccases": 9.85,
+        "country": "Libya",
+        "dcases": 0.62,
+        "vaccinationinfo": 16.18,
+        "bronzemedal": 2,
+        "total": 7
+    },
+
+    {
+        "ccases": 0.08,
+        "country": "Liberia",
+        "dcases": 0,
+        "vaccinationinfo": 19.61,
+        "bronzemedal": 2,
+        "total": 7
+    },
+
+    {
+        "ccases": 58.67,
+        "country": "Bolivia",
+        "dcases": 0.06,
+        "vaccinationinfo": 48.58,
+        "bronzemedal": 2,
+        "total": 3
+    },
+
+    {
+        "ccases": 173.14,
+        "country": "Russia",
+        "dcases": 2.73,
+        "vaccinationinfo": 49.89,
+        "bronzemedal": 2,
+        "total": 3
+    },
+
+    {
+        "ccases": 0,
+        "country": "Sierra Leone",
+        "dcases": 0,
+        "vaccinationinfo": 13.68,
+        "bronzemedal": 2,
+        "total": 7
+    },
+
+    {
+        "ccases": 1.6,
+        "country": "Nicaragua",
+        "dcases": 0.02,
+        "vaccinationinfo": 61.37,
+        "bronzemedal": 2,
+        "total": 3
+    },
+
+    {
+        "ccases": 32.95,
+        "country": "Honduras",
+        "dcases": 0.2,
+        "vaccinationinfo": 46.25,
+        "bronzemedal": 2,
+        "total": 3
+    },
+
+    {
+        "ccases": 0.41,
+        "country": "Haiti",
+        "dcases": 0,
+        "vaccinationinfo": 0.97,
+        "bronzemedal": 2,
+        "total": 3
+    },
+
+    {
+        "ccases": 31.05,
+        "country": "Belize",
+        "dcases": 0,
+        "vaccinationinfo": 51.65,
+        "bronzemedal": 2,
+        "total": 3
+    },
+
+    {
+        "ccases": 3.27,
+        "country": "Venezuela",
+        "dcases": 0.06,
+        "vaccinationinfo": 49.77,
+        "bronzemedal": 2,
+        "total": 3
+    },
+
+    {
+        "ccases": 8.86,
+        "country": "Guyana",
+        "dcases": 0.02,
+        "vaccinationinfo": 45.62,
+        "bronzemedal": 2,
+        "total": 3
+
+    },
+
+    {
+        "ccases": 0.13,
+        "country": "Mali",
+        "dcases": 0,
+        "vaccinationinfo": 4.69,
+        "bronzemedal": 2,
+        "total": 7
+    },
+
+    {
+        "ccases": 65.49,
+        "country": "Guatemala",
+        "dcases": 0.37,
+        "vaccinationinfo": 32.49,
+        "bronzemedal": 2,
+        "total": 3
+
+    },
+
+    {
+        "ccases": 291.08,
+        "country": "Lao PDR",
+        "dcases": 0,
+        "vaccinationinfo": 60.24,
+        "bronzemedal": 2,
+        "total": 3
+    },
+
+    {
+        "ccases": 53.59,
+        "country": "Suriname",
+        "dcases": 0.24,
+        "vaccinationinfo": 40.02,
+        "bronzemedal": 2,
+        "total": 3
+    },
+
+    {
+        "ccases": 0.36,
+        "country": "Sudan",
+        "dcases": 0.04,
+        "vaccinationinfo": 6.12,
+        "bronzemedal": 2,
+        "total": 7
+    },
+
+    {
+        "ccases": 1.14,
+        "country": "S. Sudan",
+        "dcases": 0,
+        "vaccinationinfo": 4.24,
+        "bronzemedal": 2,
+        "total": 7
+    },
+
+    {
+        "ccases": 1532.96,
+        "country": "Vietnam",
+        "dcases": 0.62,
+        "vaccinationinfo": 79.20,
+        "bronzemedal": 2,
+        "total": 3
+    },
+
+    {
+        "ccases": 69,
+        "country": "Armenia",
+        "dcases": 0,
+        "vaccinationinfo": 2,
+        "bronzemedal": 2,
+        "total": 4
+    },
+
+    {
+        "ccases": 4,
+        "country": "Cambodia",
+        "dcases": 0.03,
+        "vaccinationinfo": 82.14,
+        "bronzemedal": 2,
+        "total": 3
+    },
+    
+    {
+        "ccases": 2120.64,
+        "country": "Australia",
+        "dcases": 0.89,
+        "vaccinationinfo": 82.03,
+        "bronzemedal": 0,
+        "total": 46
+    },
+    
+    {
+        "ccases": 3941.57,
+        "country": "Austria",
+        "dcases": 4.33,
+        "vaccinationinfo": 72.86,
+        "bronzemedal": 5,
+        "total": 7
+    },
+
+    {
+        "ccases": 0.58,
+        "country": "Bangladesh",
+        "dcases": 0.01,
+        "vaccinationinfo": 58.13,
+        "bronzemedal": 2,
+        "total": 3
+    },
+
+    {
+        "ccases": 4.87,
+        "country": "Myanmar",
+        "dcases": 0.01,
+        "vaccinationinfo": 39.78,
+        "bronzemedal": 2,
+        "total": 3
+    },
+
+    {
+        "ccases": 67,
+        "country": "Azerbaijan",
+        "dcases": 0,
+        "vaccinationinfo": 3,
+        "bronzemedal": 4,
+        "total": 7
+    },
+    {
+        "ccases": 12.6,
+        "country": "Bahamas",
+        "dcases": 0.36,
+        "vaccinationinfo": 39.33,
+        "bronzemedal": 0,
+        "total": 2
+    },
+
+    {
+        "ccases": 148.05,
+        "country": "Costa Rica",
+        "dcases": 0.06,
+        "vaccinationinfo": 48.58,
+        "bronzemedal": 2,
+        "total": 3
+    },
+    {
+        "ccases": 64.39,
+        "country": "Panama",
+        "dcases": 0.26,
+        "vaccinationinfo": 68.88,
+        "bronzemedal": 2,
+        "total": 3
+    },
+    {
+        "ccases": 77,
+        "country": "Bahrain",
+        "dcases": 0,
+        "vaccinationinfo": 1,
+        "bronzemedal": 0,
+        "total": 1
+    },
+
+    
+
+   
+    {
+        "ccases": 29,
+        "country": "Belgium",
+        "dcases": 3,
+        "vaccinationinfo": 1,
+        "bronzemedal": 3,
+        "total": 7
+    },
+   
+    {
+        "ccases": 0.10,
+        "country": "Botswana",
+        "dcases": 0.03,
+        "vaccinationinfo": 53.92,
+        "bronzemedal": 1,
+        "total": 1
+    },
+
+    {
+        "ccases": 11.76,
+        "country": "Zimbabwe",
+        "dcases": 0.09,
+        "vaccinationinfo": 23.15,
+        "bronzemedal": 2017,
+        "total": 386015
+    },
+
+    {
+        "ccases": 143.31,
+        "country": "Brazil",
+        "dcases": 1.11,
+        "vaccinationinfo": 74.65,
+        "bronzemedal": 8,
+        "total": 21
+    },
+
+    {
+        "ccases": 17.43,
+        "country": "Peru",
+        "dcases": 1.23,
+        "vaccinationinfo": 75.90,
+        "bronzemedal": 2,
+        "total": 3
+    },
+   
+    {
+        "ccases": 30,
+        "country": "Bulgaria",
+        "dcases": 3,
+        "vaccinationinfo": 1,
+        "bronzemedal": 2,
+        "total": 6
+    },
+    {
+        "ccases": 86,
+        "country": "Burkina Faso",
+        "dcases": 0,
+        "vaccinationinfo": 0,
+        "bronzemedal": 1,
+        "total": 1
+    },
+    
+    {
+        "ccases": 86,
+        "country": "Cote-d-Ivoire",
+        "dcases": 0,
+        "vaccinationinfo": 0,
+        "bronzemedal": 1,
+        "total": 1
+    },
+  
+    {
+        "ccases": 181.88,
+        "country": "Canada",
+        "dcases": 1.01,
+        "vaccinationinfo": 81.79,
+        "bronzemedal": 11,
+        "total": 24
+    },
+
+    {
+        "ccases": 113.04,
+        "country": "Greenland",
+        "dcases": 2.51,
+        "vaccinationinfo": 67.7,
+        "bronzemedal": 2,
+        "total": 3
+    },
+   
+    {
+        "ccases": 1.37,
+        "country": "China",
+        "dcases": 0.02,
+        "vaccinationinfo": 85.91,
+        "bronzemedal": 18,
+        "total": 88
+    },
+
+    {
+        "ccases": 2935.84,
+        "country": "Iceland",
+        "dcases": 2.32,
+        "vaccinationinfo": 78.65,
+        "bronzemedal": 2,
+        "total": 3
+    },
+
+    {
+        "ccases": 0,
+        "country": "Central African Rep.",
+        "dcases": 0,
+        "vaccinationinfo": 18.25,
+        "bronzemedal": 2,
+        "total": 7
+    },
+
+    {
+        "ccases": 49,
+        "country": "Hong Kong SAR-China",
+        "dcases": 1,
+        "vaccinationinfo": 2,
+        "bronzemedal": 3,
+        "total": 6
+    },
+    
+    {
+        "ccases": 7.53,
+        "country": "Colombia",
+        "dcases": 0.35,
+        "vaccinationinfo": 67.29,
+        "bronzemedal": 1,
+        "total": 5
+    },
+    {
+        "ccases": 26,
+        "country": "Croatia",
+        "dcases": 3,
+        "vaccinationinfo": 3,
+        "bronzemedal": 2,
+        "total": 8
+    },
+    {
+        "ccases": 72.09,
+        "country": "Cuba",
+        "dcases": 0.04,
+        "vaccinationinfo": 87.56,
+        "bronzemedal": 5,
+        "total": 15
+    },
+   
+    {
+        "ccases": 18,
+        "country": "Czech Republic",
+        "dcases": 4,
+        "vaccinationinfo": 4,
+        "bronzemedal": 3,
+        "total": 11
+    },
+    {
+        "ccases": 188352,
+        "country": "Dem Peoples Rep of Korea",
+        "dcases": 18,
+        "vaccinationinfo": 197663,
+        "bronzemedal": 2017,
+        "total": 386015
+    },
+
+    {
+        "ccases": 33.7,
+        "country": "Lesotho",
+        "dcases": 18,
+        "vaccinationinfo": 197663,
+        "bronzemedal": 2017,
+        "total": 386015
+    },
+
+    {
+        "ccases": 13.28,
+        "country": "Swaziland",
+        "dcases": 0.24,
+        "vaccinationinfo": 27.16,
+        "bronzemedal": 2017,
+        "total": 386015
+    },
+
+    {
+     
+        "ccases": 0.26,
+        "country": "Dem. Rep. Congo",
+        "dcases": 0,
+        "vaccinationinfo": 0.56,
+        "bronzemedal": 2017,
+        "total": 386015
+    },
+
+    {
+        "ccases": 0.18,
+        "country": "Congo",
+        "dcases": 0,
+        "vaccinationinfo": 11.32,
+        "bronzemedal": 2017,
+        "total": 386015
+    },
+    
+    {
+        "ccases": 25,
+        "country": "Denmark",
+        "dcases": 3,
+        "vaccinationinfo": 4,
+        "bronzemedal": 4,
+        "total": 13
+    },
+    
+    {
+        "ccases": 6.83,
+        "country": "Dominican Rep.",
+        "dcases": 0,
+        "vaccinationinfo": 54.05,
+        "bronzemedal": 2,
+        "total": 5
+    },
+    
+    {
+        "ccases": 60.69,
+        "country": "Ecuador",
+        "dcases": 0.56,
+        "vaccinationinfo": 76.57,
+        "bronzemedal": 0,
+        "total": 3
+    },
+    
+    {
+        "ccases": 59,
+        "country": "Estonia",
+        "dcases": 1,
+        "vaccinationinfo": 0,
+        "bronzemedal": 1,
+        "total": 2
+    },
+    {
+        "ccases": 0.2,
+        "country": "Ethiopia",
+        "dcases": 0.01,
+        "vaccinationinfo": 17.78,
+        "bronzemedal": 2,
+        "total": 4
+    },
+    
+    {
+        "ccases": 24.52,
+        "country": "Fiji",
+        "dcases": 0,
+        "vaccinationinfo": 69.38,
+        "bronzemedal": 1,
+        "total": 2
+    },
+
+    {
+        "ccases": 0,
+        "country": "Timor-Leste",
+        "dcases": 0.11,
+        "vaccinationinfo": 43.08,
+        "bronzemedal": 1,
+        "total": 2
+    },
+
+    {
+        "ccases": 0,
+        "country": "Somalia",
+        "dcases": 0,
+        "vaccinationinfo": 7.89,
+        "bronzemedal": 2,
+        "total": 7
+    },
+
+    {
+        "ccases": 188.11,
+        "country": "Solomon Is.",
+        "dcases": 1.22,
+        "vaccinationinfo": 16.46,
+        "bronzemedal": 1,
+        "total": 2
+    },
+
+    {
+        "ccases": 85,
+        "country": "Finland",
+        "dcases": 0,
+        "vaccinationinfo": 0,
+        "bronzemedal": 2,
+        "total": 2
+    },
+    {
+        "ccases": 1902.34,
+        "country": "France",
+        "dcases": 1.56,
+        "vaccinationinfo": 77.77,
+        "bronzemedal": 11,
+        "total": 33
+    },
+   
+    
+    {
+        "ccases": 33,
+        "country": "Georgia",
+        "dcases": 2,
+        "vaccinationinfo": 5,
+        "bronzemedal": 1,
+        "total": 8
+    },
+    
+    {
+        "ccases": 0.28,
+        "country": "Ghana",
+        "dcases": 0,
+        "vaccinationinfo": 15.92,
+        "bronzemedal": 1,
+        "total": 1
+    },
+    {
+        "ccases": 36,
+        "country": "Greece",
+        "dcases": 2,
+        "vaccinationinfo": 1,
+        "bronzemedal": 1,
+        "total": 4
+    },
+    {
+        "ccases": 86,
+        "country": "Grenada",
+        "dcases": 0,
+        "vaccinationinfo": 0,
+        "bronzemedal": 1,
+        "total": 1
+    },
+
+
+    {
+     "ccases": 0.25,
+     "country": "Gabon",
+     "dcases": 0,
+     "vaccinationinfo": 11,
+     "bronzemedal": 2017,
+     "total": 386015
+    },
+
+    {
+        "ccases": 9.95,
+        "country": "Eq. Guinea",
+        "dcases": 0,
+        "vaccinationinfo": 14.33,
+        "bronzemedal": 2017,
+        "total": 386015
+    },
+
+    {
+        "ccases": 0,
+        "country": "Cameroon",
+        "dcases": 0,
+        "vaccinationinfo": 3.85,
+        "bronzemedal": 2017,
+        "total": 386015
+
+    },
+    
+    {
+        "ccases": 0.70,
+        "country": "Angola",
+        "dcases": 0.40,
+        "vaccinationinfo": 17.66,
+        "bronzemedal": 2017,
+        "total": 386015
+    },
+
+    {
+        "ccases": 4.97,
+        "country": "Zambia",
+        "dcases": 0.02,
+        "vaccinationinfo": 11.5,
+        "bronzemedal": 2017,
+        "total": 386015
+    },
+
+    {
+        "ccases": 0.30,
+        "country": "Mozambique",
+        "dcases": 0.10,
+        "vaccinationinfo": 40.83,
+        "bronzemedal": 2017,
+        "total": 386015
+    },
+
+    {
+        "ccases": 0.06,
+        "country": "Tanzania",
+        "dcases": 0,
+        "vaccinationinfo": 4.99,
+        "bronzemedal": 2017,
+        "total": 386015
+    },
+
+    {
+        "ccases": 1.06,
+        "country": "Burundi",
+        "dcases": 0,
+        "vaccinationinfo": 0.08,
+        "bronzemedal": 2017,
+        "total": 386015
+    },
+
+    {
+        "ccases": 0.58,
+        "country": "rwanda",
+        "dcases": 0,
+        "vaccinationinfo": 0,
+        "bronzemedal": 2017,
+        "total": 386015
+    },
+   
+    {
+        "ccases": 13,
+        "country": "Hungary",
+        "dcases": 6,
+        "vaccinationinfo": 7,
+        "bronzemedal": 7,
+        "total": 20
+    },
+   
+    {
+        "ccases": 1.16,
+        "country": "India",
+        "dcases": 0.46,
+        "vaccinationinfo": 59.34,
+        "bronzemedal": 4,
+        "total": 7
+    },
+
+    {
+        "ccases": 0.85,
+        "country": "Nepal",
+        "dcases": 0.01,
+        "vaccinationinfo": 63.8,
+        "bronzemedal": 2,
+        "total": 3
+    },
+
+    {
+        "ccases": 17.26,
+        "country": "Indonesia",
+        "dcases": 0.43,
+        "vaccinationinfo": 57.11,
+        "bronzemedal": 3,
+        "total": 5
+    },
+    {
+        "ccases": 16.89,
+        "country": "Iran",
+        "dcases": 0.69,
+        "vaccinationinfo": 66.63,
+        "bronzemedal": 2,
+        "total": 7
+    },
+
+    {
+        "ccases": 6.71,
+        "country": "Iraq",
+        "dcases": 0.07,
+        "vaccinationinfo": 17.29,
+        "bronzemedal": 2,
+        "total": 7
+        
+    },
+
+    {
+        "ccases": 17.09,
+        "country": "Sri Lanka",
+        "dcases": 0.19,
+        "vaccinationinfo": 66.93,
+        "bronzemedal": 2,
+        "total": 3
+    },
+   
+    {
+        "ccases": 1510.88,
+        "country": "Ireland",
+        "dcases": 1.63,
+        "vaccinationinfo": 80.42,
+        "bronzemedal": 2,
+        "total": 4
+    },
+    {
+        "ccases": 39,
+        "country": "Israel",
+        "dcases": 2,
+        "vaccinationinfo": 0,
+        "bronzemedal": 2,
+        "total": 4
+    },
+
+    {
+        "ccases": 9.85,
+        "country": "United Kingdom",
+        "dcases": 0.62,
+        "vaccinationinfo": 72.42,
+        "bronzemedal": 2,
+        "total": 7
+    },
+
+    {
+        "ccases": 1319.57,
+        "country": "Germany",
+        "dcases": 0,
+        "vaccinationinfo": 75.23,
+        "bronzemedal": 2,
+        "total": 7
+    },
+
+    {
+        "ccases": 1185.82,
+        "country": "Italy",
+        "dcases": 2.3,
+        "vaccinationinfo": 79.2,
+        "bronzemedal": 20,
+        "total": 40
+    },
+    {
+        "ccases": 6.73,
+        "country": "Jamaica",
+        "dcases": 0.58,
+        "vaccinationinfo": 22.59,
+        "bronzemedal": 4,
+        "total": 9
+    },
+
+    {
+        "ccases": 312.81,
+        "country": "Japan",
+        "dcases": 0.74,
+        "vaccinationinfo": 79.80,
+        "bronzemedal": 17,
+        "total": 58
+    },
+
+    {
+        "ccases": 9.85,
+        "country": "Cape Verde",
+        "dcases": 0.62,
+        "vaccinationinfo": 54.06,
+        "bronzemedal": 2,
+        "total": 7
+    },
+
+    {
+        "ccases": 0.37,
+        "country": "Senegal",
+        "dcases": 0,
+        "vaccinationinfo": 6.04,
+        "bronzemedal": 2,
+        "total": 7
+    },
+
+    {
+        "ccases": 0,
+        "country": "Guinea",
+        "dcases": 0,
+        "vaccinationinfo": 18.37,
+        "bronzemedal": 2,
+        "total": 7
+    },
+
+    {
+        "ccases": 9.85,
+        "country": "Guinea-Bissau",
+        "dcases": 0.62,
+        "vaccinationinfo": 16.18,
+        "bronzemedal": 2,
+        "total": 7
+    },
+
+    {
+        "ccases": 24.17,
+        "country": "Papua New Guinea",
+        "dcases": 0.02,
+        "vaccinationinfo": 2.75,
+        "bronzemedal": 2,
+        "total": 3
+    },
+
+    {
+        "ccases": 74,
+        "country": "Jordan",
+        "dcases": 0,
+        "vaccinationinfo": 1,
+        "bronzemedal": 1,
+        "total": 2
+    },
+    {
+        "ccases": 1.62,
+        "country": "Kazakhstan",
+        "dcases": 0.05,
+        "vaccinationinfo": 48.15,
+        "bronzemedal": 8,
+        "total": 8
+    },
+    {
+        "ccases": 0.24,
+        "country": "Kenya",
+        "dcases": 0,
+        "vaccinationinfo": 14.71,
+        "bronzemedal": 2,
+        "total": 10
+    },
+   
+    {
+        "ccases": 86,
+        "country": "Kuwait",
+        "dcases": 0,
+        "vaccinationinfo": 0,
+        "bronzemedal": 1,
+        "total": 1
+    },
+    {
+        "ccases": 70,
+        "country": "Kyrgyz Republic",
+        "dcases": 0,
+        "vaccinationinfo": 2,
+        "bronzemedal": 1,
+        "total": 3
+    },
+
+    {
+        "ccases": 1.31,
+        "country": "Kyrgyzstan",
+        "dcases": 0.09,
+        "vaccinationinfo": 18.61,
+        "bronzemedal": 1,
+        "total": 2
+    },
+   
+    
+    {
+        "ccases": 59,
+        "country": "Latvia",
+        "dcases": 1,
+        "vaccinationinfo": 0,
+        "bronzemedal": 1,
+        "total": 2
+    },
+   
+    
+    
+  
+    {
+        "ccases": 77,
+        "country": "Lithuania",
+        "dcases": 0,
+        "vaccinationinfo": 1,
+        "bronzemedal": 0,
+        "total": 1
+    },
+  
+    
+    {
+        "ccases": 630.3,
+        "country": "Malaysia",
+        "dcases": 1.56,
+        "vaccinationinfo": 78.71,
+        "bronzemedal": 1,
+        "total": 2
+    },
+  
+   
+   
+   
+    {
+        "ccases": 18.61,
+        "country": "Mexico",
+        "dcases": 0.74,
+        "vaccinationinfo": 61.17,
+        "bronzemedal": 4,
+        "total": 4
+    },
+  
+    {
+        "ccases": 43.3,
+        "country": "Mongolia",
+        "dcases": 0,
+        "vaccinationinfo": 65.31,
+        "bronzemedal": 3,
+        "total": 4
+    },
+  
+   
+    {
+        "ccases": 1.82,
+        "country": "Morocco",
+        "dcases": 0.02,
+        "vaccinationinfo": 62.52,
+        "bronzemedal": 0,
+        "total": 1
+    },
+
+    {
+        "ccases": 0,
+        "country": "W.Sahara",
+        "dcases": 0,
+        "vaccinationinfo": 0,
+        "bronzemedal": 2,
+        "total": 7
+    },
+
+    {
+        "ccases": 0.12,
+        "country": "Mauritania",
+        "dcases": 0.03,
+        "vaccinationinfo": 22.14,
+        "bronzemedal": 2,
+        "total": 7
+    },
+
+    
+    {
+        "ccases": 5.08,
+        "country": "Namibia",
+        "dcases": 0.17,
+        "vaccinationinfo": 14.84,
+        "bronzemedal": 0,
+        "total": 1
+    },
+   
+    {
+        "ccases": 9,
+        "country": "The Netherlands",
+        "dcases": 10,
+        "vaccinationinfo": 12,
+        "bronzemedal": 14,
+        "total": 36
+    },
+    
+    {
+        "ccases": 3147.8,
+        "country": "New Zealand",
+        "dcases": 1.9,
+        "vaccinationinfo": 78.92,
+        "bronzemedal": 7,
+        "total": 20
+    },
+
+    {
+        "ccases": 171.99,
+        "country": "New Caledonia",
+        "dcases": 1.98,
+        "vaccinationinfo": 48.58,
+        "bronzemedal": 2,
+        "total": 3
+    },
+
+    {
+        "ccases": 783.19,
+        "country": "Vanuatu",
+        "dcases": 0,
+        "vaccinationinfo": 27.09,
+        "bronzemedal": 2,
+        "total": 3
+
+    },
+    
+
+    {
+        "ccases": 0.07,
+        "country": "Niger",
+        "dcases": 0,
+        "vaccinationinfo": 6.15,
+        "bronzemedal": 2,
+        "total": 7
+    },
+    
+    {
+        "ccases": 0.16,
+        "country": "Nigeria",
+        "dcases": 0,
+        "vaccinationinfo": 4.52,
+        "bronzemedal": 1,
+        "total": 2
+    },
+
+    {
+        "ccases": 0.66,
+        "country": "Togo",
+        "dcases": 0,
+        "vaccinationinfo": 18.37,
+        "bronzemedal": 2017,
+        "total": 386015
+    },
+
+    {
+        "ccases": 0,
+        "country": "Benin",
+        "dcases": 0,
+        "vaccinationinfo": 19.52,
+        "bronzemedal": 2017,
+        "total": 386015
+    },
+    
+    
+    {
+        "ccases": 20,
+        "country": "Norway",
+        "dcases": 4,
+        "vaccinationinfo": 2,
+        "bronzemedal": 2,
+        "total": 8
+    },
+    
+    
+    {
+        "ccases": 3.48,
+        "country": "Philippines",
+        "dcases": 0.97,
+        "vaccinationinfo": 59.01,
+        "bronzemedal": 1,
+        "total": 4
+    },
+
+    {
+        "ccases": 5.17,
+        "country": "Taiwan",
+        "dcases": 0,
+        "vaccinationinfo": 76.46,
+        "bronzemedal": 1,
+        "total": 2
+    },
+
+    {
+        "ccases": 15.89,
+        "country": "Oman",
+        "dcases": 0,
+        "vaccinationinfo": 57.84,
+        "bronzemedal": 2,
+        "total": 7
+    },
+
+    {
+        "ccases": 17,
+        "country": "Poland",
+        "dcases": 4,
+        "vaccinationinfo": 5,
+        "bronzemedal": 5,
+        "total": 14
+    },
+
+    {
+        "ccases": 1.53,
+        "country": "Afghanistan",
+        "dcases": 0.03,
+        "vaccinationinfo": 11.1,
+        "bronzemedal": 1,
+        "total": 2
+    },
+   
+    {
+        "ccases": 0,
+        "country": "Portugal",
+        "dcases": 0,
+        "vaccinationinfo": 92.6,
+        "bronzemedal": 2,
+        "total": 4
+    },
+    {
+        "ccases": 0,
+        "country": "Puerto Rico",
+        "dcases": 0,
+        "vaccinationinfo": 0,
+        "bronzemedal": 0,
+        "total": 1
+    },
+    {
+        "ccases": 41,
+        "country": "Qatar",
+        "dcases": 2,
+        "vaccinationinfo": 0,
+        "bronzemedal": 1,
+        "total": 3
+    },
+   
+    {
+        "ccases": 46,
+        "country": "RB-de-Venezuela",
+        "dcases": 1,
+        "vaccinationinfo": 3,
+        "bronzemedal": 0,
+        "total": 4
+    },
+    {
+        "ccases": 6739.05,
+        "country": "Korea",
+        "dcases": 6.76,
+        "vaccinationinfo": 86.68,
+        "bronzemedal": 10,
+        "total": 20
+    },
+    
+    {
+        "ccases": 46,
+        "country": "Romania",
+        "dcases": 1,
+        "vaccinationinfo": 3,
+        "bronzemedal": 0,
+        "total": 4
+    },
+   
+    
+    {
+        "ccases": 3.07,
+        "country": "Saudi Arabia",
+        "dcases": 0.04,
+        "vaccinationinfo": 0,
+        "bronzemedal": 0,
+        "total": 2
+    },
+
+    {
+        "ccases": 0.01,
+        "country": "Yemen",
+        "dcases": 0.01,
+        "vaccinationinfo": 1.33,
+        "bronzemedal": 2,
+        "total": 7
+    },
+    
+    {
+        "ccases": 28,
+        "country": "Serbia",
+        "dcases": 3,
+        "vaccinationinfo": 1,
+        "bronzemedal": 5,
+        "total": 9
+    },
+
+    {
+        "ccases": 1.2,
+        "country": "Pakistan",
+        "dcases": 0.02,
+        "vaccinationinfo": 45.24,
+        "bronzemedal": 1,
+        "total": 2
+
+    },
+   
+    
+    {
+        "ccases": 50,
+        "country": "Slovak Republic",
+        "dcases": 1,
+        "vaccinationinfo": 2,
+        "bronzemedal": 1,
+        "total": 4
+    },
+    {
+        "ccases": 31,
+        "country": "Slovenia",
+        "dcases": 3,
+        "vaccinationinfo": 1,
+        "bronzemedal": 1,
+        "total": 5
+    },
+   
+   
+    {
+        "ccases": 21.53,
+        "country": "South Africa",
+        "dcases": 0.19,
+        "vaccinationinfo": 29.65,
+        "bronzemedal": 0,
+        "total": 3
+    },
+
+    {
+        "ccases": 0.25,
+        "country": "CÃ´te d'Ivoire",
+        "dcases": 0,
+        "vaccinationinfo": 17,
+        "bronzemedal": 0,
+        "total": 3
+        
+    },
+    
+    {
+        "ccases": 0,
+        "country": "Spain",
+        "dcases": 0,
+        "vaccinationinfo": 85.82,
+        "bronzemedal": 6,
+        "total": 17
+    },
+   
+   
+   
+    {
+        "ccases": 23,
+        "country": "Sweden",
+        "dcases": 3,
+        "vaccinationinfo": 6,
+        "bronzemedal": 1,
+        "total": 9
+    },
+    {
+        "ccases": 24,
+        "country": "Switzerland",
+        "dcases": 3,
+        "vaccinationinfo": 4,
+        "bronzemedal": 6,
+        "total": 13
+    },
+    {
+        "ccases": 86,
+        "country": "Syrian Arab Rep",
+        "dcases": 0,
+        "vaccinationinfo": 0,
+        "bronzemedal": 1,
+        "total": 1
+    },
+  
+    {
+        "ccases": 360.07,
+        "country": "Thailand",
+        "dcases": 1.11,
+        "vaccinationinfo": 71.66,
+        "bronzemedal": 1,
+        "total": 2
+    },
+   
+   
+    {
+        "ccases": 0,
+        "country": "Tunisia",
+        "dcases": 0,
+        "vaccinationinfo": 53.16,
+        "bronzemedal": 0,
+        "total": 2
+    },
+
+    {
+        "ccases": 0.25,
+        "country": "Algeria",
+        "dcases": 0.01,
+        "vaccinationinfo": 13.7,
+        "bronzemedal": 2,
+        "total": 7
+
+    },
+
+    {
+        "ccases": 35,
+        "country": "Turkey",
+        "dcases": 2,
+        "vaccinationinfo": 2,
+        "bronzemedal": 9,
+        "total": 13
+    },
+    {
+        "ccases": 0,
+        "country": "Turkmenistan",
+        "dcases": 0,
+        "vaccinationinfo": 0,
+        "bronzemedal": 0,
+        "total": 1
+    },
+    {
+        "ccases": 0.31,
+        "country": "Uganda",
+        "dcases": 0.01,
+        "vaccinationinfo": 17.01,
+        "bronzemedal": 1,
+        "total": 4
+    },
+    {
+        "ccases": 0,
+        "country": "Ukraine",
+        "dcases": 0,
+        "vaccinationinfo": 0,
+        "bronzemedal": 12,
+        "total": 19
+    },
+
+
+    {
+        "ccases": 121.69,
+        "country": "Belarus",
+        "dcases": 0.62,
+        "vaccinationinfo": 58.94,
+        "bronzemedal": 2,
+        "total": 7
+    },
+    
+    {
+        "ccases": 94.25,
+        "country": "United States",
+        "dcases": 2.38,
+        "vaccinationinfo": 61.17,
+        "bronzemedal": 33,
+        "total": 113
+    },
+    
+    
+    {
+        "ccases": 0.69,
+        "country": "Uzbekistan",
+        "dcases": 0,
+        "vaccinationinfo": 40.82,
+        "bronzemedal": 2,
+        "total": 5
+    }
+]

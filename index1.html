@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title></title>
+
+    <head>
+        <meta charset="utf-8">
+        <script src="https://d3js.org/d3.v4.js"></script>
+        <script src="https://d3js.org/d3-scale-chromatic.v1.min.js"></script>
+        <title> Project - Geo Data Visulization </title>
+        <style>
+            /*   ul {
+                list-style-type: none;
+                margin: 0;
+                padding: 0;
+                overflow: hidden;
+                background-color: #333;
+            } remove this to get proper UI */
+            .sphere {
+                fill: #4242e4;
+            }
+
+            /*   .country{
+                fill: lightgreen;
+                stroke: black;
+                stroke-opacity: 0.1;
+            }*/
+
+            li {
+                float: left;
+            }
+
+            li a {
+                display: block;
+                color: white;
+                text-align: center;
+                padding: 12px 14px;
+                text-decoration: none;
+            }
+
+
+            li a:hover:not(.active) {
+                background-color: #1c8181;
+            }
+
+            .active {
+                background-color: #4CAF50;
+            }
+
+            path {
+                stroke-width: 0.05px;
+                fill: lightgreen;
+                stroke: black
+            }
+
+
+
+            path:hover {
+                opacity: .6;
+                stroke: black;
+                stroke-width: 4px;
+                fill: red;
+            }
+
+
+            svg {
+                display: block;
+                margin: auto;
+                background-color: lightblue;
+                padding: 20px;
+            border: 2px solid #000000;
+            border-radius: 10px; 
+
+
+            }
+
+
+            li a {
+                display: block;
+                /* to change color of font header we can change below color */
+                color: blue;
+                text-align: center;
+                padding: 12px 14px;
+                text-decoration: none;
+            }
+
+            li a:hover:not(.active) {
+                background-color: rgb(175, 174, 84);
+            }
+
+            .active {
+                background-color: #7f9239;
+            }
+
+            .country {
+                fill: #ccc;
+                stroke: #999;
+            }
+
+
+            .details {
+                border-bottom-left-radius: 0px;
+                visibility: hidden;
+                width: 250px;
+                padding: 80px;
+                height: 100%;
+                opacity: 0.7;
+                position: absolute;
+                /*  background-color: rgb(236, 217, 176); to remove white color just remove this comment*/
+                background-color: white;
+                font-size: 28px;
+            }
+
+            .center {
+                text-align: center;
+            }
+        </style>
+
+    </head>
+
+<body style="background-color: lightblue">
+
+    <ul>
+
+        <a href="index1.html">Geospatial Visualization - 1</a>
+        <a href="index2.html">Geospatial Visualization - 2</a>
+
+    </ul>
+
+    <body>
+
+        <h1 class="center">Geospatial Visulization of Covid Data</h1>
+
+        <div class="details">
+            <h2 class="country"></h2>
+            <p class="ccases"></p>
+            <p class="dcases"></p>
+            <p class="vaccinationinfo"></p>
+         
+        </div>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/4.11.0/d3.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/topojson/3.0.2/topojson.js"></script>
+        <script src="src/js/main.js"></script>
+    </body>
+
+</html>
